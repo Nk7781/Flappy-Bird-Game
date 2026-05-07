@@ -175,13 +175,13 @@ Game.exe
 
 
 ### Main Menu
-![Main Menu](Assets/screenshots/Difficulty Level Window.png)
+![Main Menu](Assets/screenshots/Difficulty_Level_Window.png)
 
 ### Gameplay
-![Gameplay](Assets/screenshots/Game Play.png)
+![Gameplay](Assets/screenshots/Game_Play.png)
 
 ### Game Over Screen
-![Game Over](Assets/screenshots/Game Over.png)
+![Game Over](Assets/screenshots/Game_Over.png)
 
 Example:
 
